@@ -19,6 +19,7 @@ ReactDOM.render(
     
     
     <Footer/>
+    All right reserved
   </React.StrictMode>
   ,
   
