@@ -1,0 +1,31 @@
+.Title{
+    text-align: center;
+}
+.input{
+
+    position:absolute;
+    top: 2%;
+    text-align: center;
+    width: 10px;
+    height: 10px;
+    
+}
+.forme{
+    position: relative;
+    bottom: 10%;
+    margin-bottom: 10%;
+}
+form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+    top: 0%;
+}
+.input1{
+    width: 10%;
+    text-align: center;
+    margin-left: 45%;
+    border: solid blueviolet;
+    margin-bottom: 2%;
+}
